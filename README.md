@@ -2,11 +2,11 @@
 
 Course Link: [CodePath Android Course](https://courses.codepath.org/courses/and102/unit/3#!labs)
 
-Submitted by: **Your Name Here** <!-- Replace 'Your Name Here' with your actual name -->
+Submitted by: **Bruno Quinones** <!-- Replace 'Your Name Here' with your actual name -->
 
 **NY Times Bestselling Books** is an app designed to display the current bestselling books based on NY Times data.
 
-Time spent: **X** hours spent in total <!-- Replace 'X' with the number of hours you spent on this project -->
+Time spent: **2** hours spent in total <!-- Replace 'X' with the number of hours you spent on this project -->
 
 ## Application Features
 
@@ -14,12 +14,12 @@ Time spent: **X** hours spent in total <!-- Replace 'X' with the number of hours
 
 The following **required** functionality is completed:
 
-- [ ] (2 pts) **Live data is loaded from the NY Times API.**
-  - ![Image/GIF showing additional email information](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
-- [ ] (4 pts) **Books are displayed using a RecyclerView.**
+- [x] (2 pts) **Live data is loaded from the NY Times API.**
+  - ![Image/GIF showing additional email information](../1) <!-- Replace this link with your actual image/GIF link -->
+- [x] (4 pts) **Books are displayed using a RecyclerView.**
   - Displays book ranking, cover, title, author, and description.
   - Book cover images are downloaded using Glide.
-  - ![Image/GIF showing required features](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
+  - ![Image/GIF showing required features](../1) <!-- Replace this link with your actual image/GIF link -->
 
 ### Stretch Features
 
@@ -31,7 +31,7 @@ The following **stretch** functionality is implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app. <!-- Replace this with your specific challenges and experiences -->
+Describe any challenges encountered while building the app. <!-- Replace this with your specific challenges and experiences --> I was able to implement the improved layout but I couldn't get the button to work, I followed the instructions but it kept crashing my app.
 
 ## Resources
 
@@ -44,7 +44,7 @@ Describe any challenges encountered while building the app. <!-- Replace this wi
 ## License
 
 ```plaintext
-    Copyright [yyyy] [Your Name]
+    Copyright [2024] [Bruno Quinones]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
