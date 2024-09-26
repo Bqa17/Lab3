@@ -15,11 +15,11 @@ Time spent: **2** hours spent in total <!-- Replace 'X' with the number of hours
 The following **required** functionality is completed:
 
 - [x] (2 pts) **Live data is loaded from the NY Times API.**
-  - ![Image/GIF showing additional email information](/1) <!-- Replace this link with your actual image/GIF link -->
+  - ![Image/GIF showing additional email information](gifs/1) <!-- Replace this link with your actual image/GIF link -->
 - [x] (4 pts) **Books are displayed using a RecyclerView.**
   - Displays book ranking, cover, title, author, and description.
   - Book cover images are downloaded using Glide.
-  - ![Image/GIF showing required features](../1) <!-- Replace this link with your actual image/GIF link -->
+  - ![Image/GIF showing required features](gifs/1) <!-- Replace this link with your actual image/GIF link -->
 
 ### Stretch Features
 
