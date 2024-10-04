@@ -25,14 +25,14 @@ The following **required** functionality is completed:
 
 The following **stretch** functionality is implemented:
 
-- [ ] (4 pts) **Improved layout and styling to match the NY Times website.**
+- [x] (4 pts) **Improved layout and styling to match the NY Times website.**
   - Includes a "buy" button that links to Amazon.
-  - ![Image/GIF showing stretch features](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
+  - ![Image/GIF showing stretch features](gifLab3.gif) <!-- Replace this link with your actual image/GIF link -->
 
 ## Notes
 
 Describe any challenges encountered while building the app. <!-- Replace this with your specific challenges and experiences --> I was able to implement the improved layout but I couldn't get the button to work, I followed the instructions but it kept crashing my app.
-
+(I was able to fix it after the assignment was due, but I added it just in case)
 ## Resources
 
 - [CodePath's AsyncHTTPClient library](https://guides.codepath.org/android/Using-CodePath-Async-Http-Client)
